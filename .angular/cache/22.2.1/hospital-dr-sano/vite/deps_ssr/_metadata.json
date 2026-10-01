@@ -1,0 +1,80 @@
+{
+  "hash": "228661bc",
+  "configHash": "d5a1de35",
+  "lockfileHash": "ab651e28",
+  "browserHash": "f8dbae46",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "31e47af9",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "4c30c4eb",
+      "needsInterop": false
+    },
+    "@angular/platform-server/init": {
+      "src": "../../../../../../node_modules/@angular/platform-server/fesm2022/init.mjs",
+      "file": "@angular_platform-server_init.js",
+      "fileHash": "acb4f9ae",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "f252681f",
+      "needsInterop": false
+    },
+    "@angular/ssr": {
+      "src": "../../../../../../node_modules/@angular/ssr/fesm2022/ssr.mjs",
+      "file": "@angular_ssr.js",
+      "fileHash": "be3df4ec",
+      "needsInterop": false
+    },
+    "@angular/ssr/node": {
+      "src": "../../../../../../node_modules/@angular/ssr/fesm2022/node.mjs",
+      "file": "@angular_ssr_node.js",
+      "fileHash": "5b3b2ea2",
+      "needsInterop": false
+    },
+    "express": {
+      "src": "../../../../../../node_modules/express/index.js",
+      "file": "express.js",
+      "fileHash": "29d6610b",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "bundled-domino-1lz1wH_B": {
+      "file": "bundled-domino-1lz1wH_B.js",
+      "isDynamicEntry": false
+    },
+    "core-YAiL6VzY": {
+      "file": "core-YAiL6VzY.js",
+      "isDynamicEntry": false
+    },
+    "platform-browser-Kuc1_-G-": {
+      "file": "platform-browser-Kuc1_-G-.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-B4iAMlE-": {
+      "file": "rolldown-runtime-B4iAMlE-.js",
+      "isDynamicEntry": false
+    },
+    "router-pv_TOoen": {
+      "file": "router-pv_TOoen.js",
+      "isDynamicEntry": false
+    },
+    "ssr-3QA7LgGg": {
+      "file": "ssr-3QA7LgGg.js",
+      "isDynamicEntry": false
+    },
+    "xhr2-BDl7dY5v": {
+      "file": "xhr2-BDl7dY5v.js",
+      "isDynamicEntry": true
+    }
+  }
+}
